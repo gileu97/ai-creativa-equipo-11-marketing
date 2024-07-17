@@ -14,7 +14,6 @@ El automóvil que redefine la eficiencia y la innovación ha llegado. Con una im
 
 🌱🚀 ¡Conduce el futuro hoy mismo! Reserva tu prueba de manejo y experimenta la revolución híbrida. 🔗 [Enlace al sitio web]
 
-![Prius2025-email](https://raw.githubusercontent.com/gileu97/ai-creativa-equipo-11-marketing/82cefee85e498c2cf027834419bd4654088cbc62/resources/Prius2025-social.png?token=AB2MDAEWSU2ZJI3P6R2ORPLGS4UOW)
-
-
 #ToyotaPrius2025 #Innovación #Eficiencia #Híbrido #ConducciónVerde #TecnologíaAutomotriz
+
+![Prius2025-email](https://raw.githubusercontent.com/gileu97/ai-creativa-equipo-11-marketing/82cefee85e498c2cf027834419bd4654088cbc62/resources/Prius2025-social.png?token=AB2MDAEWSU2ZJI3P6R2ORPLGS4UOW)
