@@ -8,7 +8,7 @@
 
 ¿Listo para llevar tu conducción al próximo nivel? Conduce hacia un futuro más verde con el nuevo Toyota Prius 2025. Nuestro híbrido reduce significativamente las emisiones de CO2, ayudando a mantener nuestro planeta más limpio y saludable.
 
-![Prius2025-email](https://hackmd.io/_uploads/rkMfZiE_R.png)
+![Prius2025-email](https://github.com/gileu97/ai-creativa-equipo-11-marketing/blob/main/resources/Prius2025-email.png?raw=true)
 
 
 Imagina ahorrar en gasolina sin perder potencia. Con una eficiencia increíble de hasta 56 MPG combinadas, el Prius 2025 es la opción perfecta para ahorrar en cada viaje y ser eco-friendly.
@@ -19,7 +19,7 @@ Disfruta de un viaje cómodo y con estilo. Con un diseño aerodinámico, luces L
 
 No esperes más. Visita nuestro sitio web o acércate a tu concesionario Toyota más cercano y prueba el Prius 2025 hoy mismo. 🌟
 
-![Prius2025-email-2](https://hackmd.io/_uploads/BJjkMi4uA.png)
+![Prius2025-email-2](https://github.com/gileu97/ai-creativa-equipo-11-marketing/blob/main/resources/Prius2025-email-2.png?raw=true)
 
 
 Toyota México
