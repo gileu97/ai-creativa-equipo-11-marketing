@@ -7,7 +7,5 @@
 - Cecilia Luzan
 - Gilberto López
 
-### Proyecto seleccionado:
-Contenido para campaña de marketing
-
-Temática: Promoción del Automóvil Híbrido
+**Proyecto seleccionado**: Contenido para campaña de marketing.
+**Temática**: Promoción del Automóvil Híbrido.
